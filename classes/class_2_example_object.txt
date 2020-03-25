@@ -1,0 +1,11 @@
+Porterhouse
+
+Garnish : false
+Doneness : "Rare"
+Weight : (12.5)
+Sides : ["Fries", "Mashed Potatoes"]
+
+Garnish: true
+Doneness : "Medium Rare"
+Weight: (5.5)
+Sides : ["Fries", "Mashed Potatoes" "Green Beans"]
