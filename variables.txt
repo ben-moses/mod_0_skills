@@ -1,0 +1,10 @@
+var food = "Pizza"
+var is_new = true
+var food = "Hot Dog"
+var num1 = 4
+var num2 = 5
+num1 * num2 = 20
+var num3 = (num1 * num2)
+var movies = ["Star Wars", "Titanic", "Casablanca"]
+movies.length = 2
+movies.length
