@@ -1,0 +1,11 @@
+Tables
+
+Open (boolean)
+Seats (integer)
+Centerpiece (string)
+Dishes (array)
+
+Seat_guests (changes Open to false)
+Add_chair (adds one to current Seat integer)
+Reset_table (changes Centerpiece)
+Serve_entree (adds to the Dishes array)
