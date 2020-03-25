@@ -1,0 +1,11 @@
+Steak Entree
+
+Garnish (boolean)
+Doneness (string)
+Weight (float)
+Sides (array)
+
+Garnish (changes Garnish to true)
+Send_back (changes Doneness)
+Consume (reduces weight of cut)
+Add_side (adds another object to the Sides array)
