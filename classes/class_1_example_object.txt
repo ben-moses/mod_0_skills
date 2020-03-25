@@ -1,0 +1,11 @@
+Table 2
+
+Open : true
+Seats : (3)
+Centerpiece : "Roses"
+Dishes : ["Steak", "Lobster", "Tacos"]
+
+Open : false
+Seats : (4)
+Centerpiece : "Daisies"
+Dishes : ["Steak", "Lobster", "Tacos", "Lobster Stuffed With Tacos"]
